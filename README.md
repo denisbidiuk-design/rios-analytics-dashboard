@@ -44,6 +44,7 @@ All measures used in the project are documented in:
 
 docs/
 Rios_Analytics_Dashboard.pdf
+
 DAX_Measures.md
 
 model/
