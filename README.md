@@ -42,18 +42,14 @@ All measures used in the project are documented in:
 
 ## 📁 Repository Structure
 
-rios-analytics-dashboard/
-├── README.md
+docs/
+Rios_Analytics_Dashboard.pdf
+DAX_Measures.md
 
-├── docs/
+model/
+data_model.pdf
 
-│   ├── Rios_Analytics_Dashboard.pdf
-│   └── DAX_Measures.md
-
-│
-├── model/
-
-│   └── data_model.pdf
+README.md
 
 ---
 
