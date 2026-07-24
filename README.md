@@ -52,6 +52,7 @@ rios-analytics-dashboard/
 │
 ├── model/
 │   └── data_model.pdf
+
 ---
 
 ## 🧠 Technologies
